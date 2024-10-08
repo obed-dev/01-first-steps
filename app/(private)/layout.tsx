@@ -1,4 +1,4 @@
-import { Navbar } from '@/app/components';
+import { Navbar } from '../components/index';
 
 export default function AboutLayout( { 
     children}: {
